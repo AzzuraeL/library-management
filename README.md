@@ -17,18 +17,12 @@ Setelah project dibuat, perhatikan panel Explorer di VS Code. Struktur file proj
 LibraryManagementApp
 
 ├──App.xaml
-
 ├── App.xaml.cs
-
 ├── MainWindow.xaml
-
 ├── MainWindow.xaml.cs
-
 ├── Book.cs
-
 └── LibraryManagementApp.csproj
 
-Source Code dapat ditemukan di : LIBRARY MANAGEMENT
 
 
 
